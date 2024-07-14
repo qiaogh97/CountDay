@@ -1,5 +1,6 @@
 !.gitignore
 qiao.sh
 guan.sh
+config_private.py
 __pycache__
 *.py[cod]
