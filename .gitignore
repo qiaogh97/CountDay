@@ -1,0 +1,5 @@
+!.gitignore
+qiao.sh
+guan.sh
+__pycache__
+*.py[cod]
